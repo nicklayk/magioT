@@ -59,7 +59,7 @@ body {
 
 #menubar {
 	background-color: var(--main-bright-color);
-	background-image: url("logo.svg");
+	background-image: url("logo.png");
 	background-position: 10px center;
 	background-size: 50px 50px;
 	background-repeat: no-repeat;
